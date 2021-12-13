@@ -19,4 +19,4 @@ while n < 5:
 
 mt=mt/5
 
-print('Media da turma: %.f;\n Alunos com media <= 7: %.f' % (mt, ms))
+print('Media da turma: %.f;\n Alunos com media >= a 7: %.f' % (mt, ms))
