@@ -1,0 +1,30 @@
+v = [1, 1, 1, 2, 2, 3, 3, 4, 23, 5, 1]
+
+x = 0
+a = 0
+
+while x < len(v):
+    z = 0
+    q = 0
+    y = x
+    c = False
+
+    while z < len(v):
+        if v[x] is v[z]:
+            a = v[x]
+            q += 1
+        z += 1
+
+    while y > 0:
+        if a is v[y-1]:
+            c = False
+            break
+        else:
+            c = True
+        y -= 1
+    if c is True:
+        print(a, q)
+
+    if x is 0:
+        print(a, q)
+    x += 1

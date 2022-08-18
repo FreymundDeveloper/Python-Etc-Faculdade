@@ -1,0 +1,10 @@
+LISTA DE HORARIOS
+Medico / Horario / Paciente
+Dr.Luis 13:00 Disponivel
+Dr.Diego 9:00 Disponivel
+Dra.Sara 16:00 Disponivel
+Dra.Augusta 19:00 Disponivel
+Dr.Pedro 8:00 Disponivel
+Dra.Salomena 15:00 Disponivel
+Dra.Podvisc 12:00 Disponivel
+Dra.Lindi 11:00 Disponivel

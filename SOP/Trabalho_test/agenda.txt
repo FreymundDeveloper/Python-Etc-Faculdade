@@ -1,0 +1,6 @@
+LISTA DE HORARIOS
+Medico / Horario / Paciente
+Mark 12:00 Disponivel
+Luy 13:00 alan
+Luy 12:00 Disponivel
+Sara 17:00 Disponivel
