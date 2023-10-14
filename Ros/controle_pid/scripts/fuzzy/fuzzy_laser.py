@@ -1,23 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-######################
-# Aula 26/09/2022
-######################
-
-
-## 
-## Desenvolva um pacote compatível com o Robot
-## Operating System (ROS) para a movimentação de
-## um robô móvel utilizando o ambiente CoppeliaSim;
-## • A estratégia deve permitir que o robô movimente-se
-## constantemente para frente, desviando de todos os
-## obstáculos detectados pela forma de percepção
-## LIDAR;
-## • Deve-se empregar uma estratégia Fuzzy para o
-## desvio.
-## 
-
 import rospy
 from geometry_msgs.msg import Twist
 from sensor_msgs.msg import LaserScan
