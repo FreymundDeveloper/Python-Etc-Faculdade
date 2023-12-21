@@ -5,6 +5,7 @@ Python applications and algorithms developed during college. Main applications:
 * /PythonCodeListIPOO: Basic OOP algorithms in Python;
 * /DAD1 and /DAD2: Structural data manipulation and formatting with Python;
 * /Prog1 and /Prog2: Consuming and manipulating GUI libraries;
+* /IA: Data manipulation through the "experta" library(and some basic Prolog codes);
 * /SOP: Using threading and data traffic control with Python;
 * /Ros: Algorithms developed based on the ROSpy API.
 
